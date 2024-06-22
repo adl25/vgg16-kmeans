@@ -20,8 +20,8 @@ Architectural research often involves analyzing a large number of images to iden
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/image-clustering-architectural-research.git
-    cd image-clustering-architectural-research
+    git clone https://github.com/adl25/vgg16-kmeans.git
+    cd vgg16-kmeans
     ```
 
 2. Install the required packages:
@@ -34,7 +34,7 @@ Architectural research often involves analyzing a large number of images to iden
 1. Place your images in a directory named `train/`.
 2. Run the script:
     ```bash
-    python image_clustering.py
+    python vgg16-kmeans-pca.py
     ```
 
 ## Code Explanation
